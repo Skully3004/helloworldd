@@ -1,0 +1,7 @@
+body h3{
+    text-align:center;
+    font-family: helvetica;
+}
+ body canvas {
+    border: 10px solid rgb(200, 0, 0);
+  }
